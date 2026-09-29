@@ -1,0 +1,1472 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-09-29T09:00:00Z",
+  "brand": {
+    "ar": "جوسي فود",
+    "en": "Juicy Food"
+  },
+  "title": {
+    "ar": "قائمة الطعام",
+    "en": "Menu"
+  },
+  "tagline": {
+    "ar": "وجبات جاهزة على التسوية والتسخين فورًا",
+    "en": "Meals ready to cook, or to heat and serve"
+  },
+  "intro": {
+    "ar": "نجهّزها متبّلة بأجود المكوّنات.. توصلك جاهزة وأنت تطبخها طازجة في بيتك",
+    "en": "Marinated with the finest ingredients and delivered ready, so you cook it fresh at home."
+  },
+  "promise": {
+    "ar": "الأكل عليك والتتبيلة علينا",
+    "en": "You bring the food, we handle the marinade"
+  },
+  "services": [
+    {
+      "ar": "متاح عمل جميع أنواع الأكل المخصوص",
+      "en": "Custom dishes of every kind, made to order"
+    },
+    {
+      "ar": "متاح عمل جميع أنواع العزومات والحفلات",
+      "en": "Catering for gatherings and parties"
+    },
+    {
+      "ar": "متاح تتبيل أي صنف من عندك",
+      "en": "We'll marinate any cut you bring"
+    }
+  ],
+  "contact": {
+    "phone": "+201065365513",
+    "whatsapp": "+201065365513",
+    "address": {
+      "ar": "٤ شارع الأميرة فادية، بجوار ماركت كازيون، مشعل، الهرم",
+      "en": "4 Princess Fadia St., next to Kazyon Market, Mash'al, Al Haram"
+    }
+  },
+  "note": {
+    "ar": "جميع الأسعار بالجنيه المصري",
+    "en": "All prices are in Egyptian pounds"
+  },
+  "categories": [
+    {
+      "id": "chicken",
+      "icon": "chicken",
+      "name": {
+        "ar": "أصناف الدجاج",
+        "en": "Chicken"
+      },
+      "items": [
+        {
+          "id": "chicken-01",
+          "name": {
+            "ar": "دجاج تكا",
+            "en": "Chicken Tikka"
+          },
+          "desc": {
+            "ar": "دجاجة 4 أرباع جاهزة على التسوية",
+            "en": "Whole chicken in 4 quarters, ready to cook"
+          },
+          "unit": {
+            "ar": "دجاجة",
+            "en": "whole chicken"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-02",
+          "name": {
+            "ar": "دجاج روستو فرن",
+            "en": "Oven Roast Chicken"
+          },
+          "desc": {
+            "ar": "دجاجة 4 أرباع جاهزة على التسوية",
+            "en": "Whole chicken in 4 quarters, ready to cook"
+          },
+          "unit": {
+            "ar": "دجاجة",
+            "en": "whole chicken"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-03",
+          "name": {
+            "ar": "دجاج مسحب",
+            "en": "Boneless Chicken (Mesahab)"
+          },
+          "desc": {
+            "ar": "دجاجة 4 أرباع جاهزة على التسوية",
+            "en": "Whole chicken in 4 quarters, ready to cook"
+          },
+          "unit": {
+            "ar": "دجاجة",
+            "en": "whole chicken"
+          },
+          "price": 300,
+          "half": 160,
+          "available": true
+        },
+        {
+          "id": "chicken-04",
+          "name": {
+            "ar": "دجاج شوي",
+            "en": "Grilled Chicken"
+          },
+          "desc": {
+            "ar": "دجاجة 4 أرباع جاهزة على التسوية",
+            "en": "Whole chicken in 4 quarters, ready to cook"
+          },
+          "unit": {
+            "ar": "دجاجة",
+            "en": "whole chicken"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-05",
+          "name": {
+            "ar": "دجاج تندوري",
+            "en": "Tandoori Chicken"
+          },
+          "desc": {
+            "ar": "دجاجة 4 أرباع جاهزة على التسوية",
+            "en": "Whole chicken in 4 quarters, ready to cook"
+          },
+          "unit": {
+            "ar": "دجاجة",
+            "en": "whole chicken"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-06",
+          "name": {
+            "ar": "دجاج فيجيتار",
+            "en": "Vegeta-Spiced Chicken"
+          },
+          "desc": {
+            "ar": "دجاجة 10 قطع جاهزة على التسوية",
+            "en": "Whole chicken in 10 pieces, ready to cook"
+          },
+          "unit": {
+            "ar": "دجاجة",
+            "en": "whole chicken"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-07",
+          "name": {
+            "ar": "شيش طاووق",
+            "en": "Shish Tawook"
+          },
+          "desc": {
+            "ar": "صدور بالخضار جاهزة على التسوية",
+            "en": "Breasts with vegetables, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-08",
+          "name": {
+            "ar": "بانيه جريل للدايت",
+            "en": "Diet Grilled Chicken Fillet"
+          },
+          "desc": {
+            "ar": "صدور بالأعشاب جاهزة على التسوية",
+            "en": "Breasts with herbs, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-09",
+          "name": {
+            "ar": "بانيه قلي",
+            "en": "Breaded Chicken (Pané)"
+          },
+          "desc": {
+            "ar": "صدور مغطاة بطبقة القلي على التسوية",
+            "en": "Breasts in a crispy coating, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-10",
+          "name": {
+            "ar": "فاهيتا دجاج",
+            "en": "Chicken Fajita"
+          },
+          "desc": {
+            "ar": "صدور بالخضار جاهزة على التسوية",
+            "en": "Breasts with vegetables, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-11",
+          "name": {
+            "ar": "شاورما دجاج",
+            "en": "Chicken Shawarma"
+          },
+          "desc": {
+            "ar": "صدور بالخضار جاهزة على التسوية",
+            "en": "Breasts with vegetables, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 280,
+          "half": 150,
+          "available": true
+        },
+        {
+          "id": "chicken-12",
+          "name": {
+            "ar": "استربس",
+            "en": "Chicken Strips"
+          },
+          "desc": {
+            "ar": "صدور جاهزة على التسوية",
+            "en": "Breasts, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 300,
+          "half": 160,
+          "available": true
+        },
+        {
+          "id": "chicken-13",
+          "name": {
+            "ar": "أجنحة قلي",
+            "en": "Fried Wings"
+          },
+          "desc": {
+            "ar": "أجنحة متبلة جاهزة على القلي",
+            "en": "Marinated wings, ready to fry"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 150,
+          "half": 80,
+          "available": true
+        },
+        {
+          "id": "chicken-14",
+          "name": {
+            "ar": "أجنحة فرن",
+            "en": "Oven Wings"
+          },
+          "desc": {
+            "ar": "أجنحة متبلة جاهزة على التسوية",
+            "en": "Marinated wings, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 150,
+          "half": 80,
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "meat",
+      "icon": "meat",
+      "name": {
+        "ar": "أصناف اللحوم",
+        "en": "Meat"
+      },
+      "items": [
+        {
+          "id": "meat-01",
+          "name": {
+            "ar": "كفتة شوي",
+            "en": "Grilled Kofta"
+          },
+          "desc": {
+            "ar": "بتتبيلة خاصة وجاهزة على الشوي",
+            "en": "Our special seasoning, ready to grill"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 325,
+          "half": 165,
+          "available": true
+        },
+        {
+          "id": "meat-02",
+          "name": {
+            "ar": "كفتة فرن",
+            "en": "Oven Kofta"
+          },
+          "desc": {
+            "ar": "بتتبيلة خاصة وجاهزة على الشوي",
+            "en": "Our special seasoning, ready to grill"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 325,
+          "half": 165,
+          "available": true
+        },
+        {
+          "id": "meat-03",
+          "name": {
+            "ar": "كفتة داود",
+            "en": "Dawood Basha Kofta"
+          },
+          "desc": {
+            "ar": "بتتبيلة خاصة وجاهزة على الشوي",
+            "en": "Our special seasoning, ready to grill"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 325,
+          "half": 165,
+          "available": true
+        },
+        {
+          "id": "meat-04",
+          "name": {
+            "ar": "كفتة أرز",
+            "en": "Rice Kofta"
+          },
+          "desc": {
+            "ar": "بتتبيلة خاصة وجاهزة على التسوية",
+            "en": "Our special seasoning, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 225,
+          "half": 115,
+          "available": true
+        },
+        {
+          "id": "meat-05",
+          "name": {
+            "ar": "كفتة أرز باللحمة",
+            "en": "Rice & Meat Kofta"
+          },
+          "desc": {
+            "ar": "بتتبيلة خاصة وجاهزة على التسوية",
+            "en": "Our special seasoning, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 260,
+          "half": 135,
+          "available": true
+        },
+        {
+          "id": "meat-06",
+          "name": {
+            "ar": "برجر سادة",
+            "en": "Plain Burger"
+          },
+          "desc": {
+            "ar": "بتتبيلة خاصة وجاهزة على التسوية",
+            "en": "Our special seasoning, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 325,
+          "half": 165,
+          "available": true
+        },
+        {
+          "id": "meat-07",
+          "name": {
+            "ar": "برجر جبنة",
+            "en": "Cheese Burger"
+          },
+          "desc": {
+            "ar": "بتتبيلة خاصة وجاهزة على التسوية",
+            "en": "Our special seasoning, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 400,
+          "half": 210,
+          "available": true
+        },
+        {
+          "id": "meat-08",
+          "name": {
+            "ar": "سجق",
+            "en": "Egyptian Sausage (Sogoq)"
+          },
+          "desc": {
+            "ar": "جاهز على التشويح",
+            "en": "Ready to sauté"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 300,
+          "half": 160,
+          "available": true
+        },
+        {
+          "id": "meat-09",
+          "name": {
+            "ar": "كبدة بانيه",
+            "en": "Breaded Liver"
+          },
+          "desc": {
+            "ar": "جاهزة على القلي",
+            "en": "Ready to fry"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 250,
+          "half": 130,
+          "available": true
+        },
+        {
+          "id": "meat-10",
+          "name": {
+            "ar": "كبدة جريل",
+            "en": "Grilled Liver"
+          },
+          "desc": {
+            "ar": "جاهزة على التسوية",
+            "en": "Ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 250,
+          "half": 130,
+          "available": true
+        },
+        {
+          "id": "meat-11",
+          "name": {
+            "ar": "كبدة إسكندراني",
+            "en": "Alexandrian Liver"
+          },
+          "desc": {
+            "ar": "جاهزة على التشويح",
+            "en": "Ready to sauté"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 250,
+          "half": 130,
+          "available": true
+        },
+        {
+          "id": "meat-12",
+          "name": {
+            "ar": "حواوش",
+            "en": "Hawawshi"
+          },
+          "desc": {
+            "ar": "جاهز على الحشو والتسوية",
+            "en": "Ready to stuff and cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 300,
+          "half": 160,
+          "available": true
+        },
+        {
+          "id": "meat-13",
+          "name": {
+            "ar": "شاورما لحم",
+            "en": "Beef Shawarma"
+          },
+          "desc": {
+            "ar": "بتتبيلة سوري جاهزة على التشويح",
+            "en": "Syrian-style seasoning, ready to sauté"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 400,
+          "half": 210,
+          "available": true
+        },
+        {
+          "id": "meat-14",
+          "name": {
+            "ar": "طرب",
+            "en": "Tarb (Caul-Wrapped Kofta)"
+          },
+          "desc": {
+            "ar": "جاهزة على التسوية",
+            "en": "Ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 380,
+          "half": 200,
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "baladi",
+      "icon": "chef",
+      "name": {
+        "ar": "مخصوص بالطلب بلدي",
+        "en": "Baladi specials, made to order"
+      },
+      "items": [
+        {
+          "id": "baladi-01",
+          "name": {
+            "ar": "كوردن بلو",
+            "en": "Cordon Bleu"
+          },
+          "desc": {
+            "ar": "صدور داخلها تركي مدخن مع الجبن",
+            "en": "Breasts filled with smoked turkey and cheese"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 400,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-02",
+          "name": {
+            "ar": "بيف ستيك بلدي",
+            "en": "Baladi Beef Steak"
+          },
+          "desc": {
+            "ar": "لحم بتلو متبل جاهز على الشوي",
+            "en": "Marinated veal, ready to grill"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 600,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-03",
+          "name": {
+            "ar": "بيكاتا بلدي",
+            "en": "Baladi Piccata"
+          },
+          "desc": {
+            "ar": "لحم بتلو متبل وجاهز على التشويح",
+            "en": "Marinated veal, ready to sauté"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 600,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-04",
+          "name": {
+            "ar": "ديك رومي",
+            "en": "Turkey"
+          },
+          "desc": {
+            "ar": "متبل رستو وجاهز على التسوية",
+            "en": "Roast-style marinade, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 250,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-05",
+          "name": {
+            "ar": "عرق انتركوت وزن",
+            "en": "Entrecôte Roll (by weight)"
+          },
+          "desc": {
+            "ar": "متبل وملفوف",
+            "en": "Marinated and rolled"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 600,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-06",
+          "name": {
+            "ar": "عرق فيليتو وزن",
+            "en": "Fillet Roll (by weight)"
+          },
+          "desc": {
+            "ar": "متبل وملفوف",
+            "en": "Marinated and rolled"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 600,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-07",
+          "name": {
+            "ar": "اسكالوب بانيه",
+            "en": "Breaded Escalope"
+          },
+          "desc": {
+            "ar": "لحم بتلو مغطاة بطبقة البانيه المميزة",
+            "en": "Veal in our signature breading"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 600,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-08",
+          "name": {
+            "ar": "برجر جبنة",
+            "en": "Cheese Burger"
+          },
+          "desc": {
+            "ar": "بتتبيلة خاصة وجاهزة على التسوية",
+            "en": "Our special seasoning, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 600,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-09",
+          "name": {
+            "ar": "شاورما لحم",
+            "en": "Beef Shawarma"
+          },
+          "desc": {
+            "ar": "بتتبيلة سوري جاهزة على التشويح",
+            "en": "Syrian-style seasoning, ready to sauté"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 600,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-10",
+          "name": {
+            "ar": "عرق تريبيانكو وزن",
+            "en": "Tribianco Roll (by weight)"
+          },
+          "desc": {
+            "ar": "متبل وملفوف",
+            "en": "Marinated and rolled"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 600,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "baladi-11",
+          "name": {
+            "ar": "بط روستو أو أنواع",
+            "en": "Roast Duck & More"
+          },
+          "desc": {
+            "ar": "متبلة رستو وجاهزة على التسوية",
+            "en": "Roast-style marinade, ready to cook"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 250,
+          "half": null,
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "feasts",
+      "icon": "pot",
+      "name": {
+        "ar": "مخصوص للعزومات",
+        "en": "Feast specials"
+      },
+      "items": [
+        {
+          "id": "feasts-01",
+          "name": {
+            "ar": "ممبار",
+            "en": "Mombar (Stuffed Casings)"
+          },
+          "desc": {
+            "ar": "أرز فقط",
+            "en": "Rice filling only"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 180,
+          "half": 95,
+          "available": true
+        },
+        {
+          "id": "feasts-02",
+          "name": {
+            "ar": "ممبار بوبس",
+            "en": "Mombar Bops"
+          },
+          "desc": {
+            "ar": "أرز فقط",
+            "en": "Rice filling only"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 200,
+          "half": 110,
+          "available": true
+        },
+        {
+          "id": "feasts-03",
+          "name": {
+            "ar": "محشي ورق عنب",
+            "en": "Stuffed Vine Leaves"
+          },
+          "desc": {
+            "ar": "أرز فقط",
+            "en": "Rice filling only"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 180,
+          "half": 95,
+          "available": true
+        },
+        {
+          "id": "feasts-04",
+          "name": {
+            "ar": "محشي كرنب",
+            "en": "Stuffed Cabbage"
+          },
+          "desc": {
+            "ar": "أرز فقط",
+            "en": "Rice filling only"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 150,
+          "half": 80,
+          "available": true
+        },
+        {
+          "id": "feasts-05",
+          "name": {
+            "ar": "محشي مشكل أو أنواع",
+            "en": "Mixed Mahshi & More"
+          },
+          "desc": {
+            "ar": "أرز فقط",
+            "en": "Rice filling only"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 150,
+          "half": 80,
+          "available": true
+        },
+        {
+          "id": "feasts-06",
+          "name": {
+            "ar": "محشي ورق عنب",
+            "en": "Stuffed Vine Leaves"
+          },
+          "desc": {
+            "ar": "أرز باللحمة المفرومة",
+            "en": "Rice with minced meat"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 320,
+          "half": 165,
+          "available": true
+        },
+        {
+          "id": "feasts-07",
+          "name": {
+            "ar": "محشي كرنب",
+            "en": "Stuffed Cabbage"
+          },
+          "desc": {
+            "ar": "أرز باللحمة المفرومة",
+            "en": "Rice with minced meat"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 300,
+          "half": 160,
+          "available": true
+        },
+        {
+          "id": "feasts-08",
+          "name": {
+            "ar": "محشي مشكل أو أنواع",
+            "en": "Mixed Mahshi & More"
+          },
+          "desc": {
+            "ar": "أرز باللحمة المفرومة",
+            "en": "Rice with minced meat"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 300,
+          "half": 160,
+          "available": true
+        },
+        {
+          "id": "feasts-09",
+          "name": {
+            "ar": "ممبار",
+            "en": "Mombar (Stuffed Casings)"
+          },
+          "desc": {
+            "ar": "أرز باللحمة المفرومة",
+            "en": "Rice with minced meat"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 330,
+          "half": 170,
+          "available": true
+        },
+        {
+          "id": "feasts-10",
+          "name": {
+            "ar": "ممبار بوبس",
+            "en": "Mombar Bops"
+          },
+          "desc": {
+            "ar": "أرز باللحمة المفرومة",
+            "en": "Rice with minced meat"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 350,
+          "half": 180,
+          "available": true
+        },
+        {
+          "id": "feasts-11",
+          "name": {
+            "ar": "فطير مشلتت",
+            "en": "Feteer Meshaltet"
+          },
+          "desc": {
+            "ar": "وزن كيلو",
+            "en": "Sold by the kilo"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 110,
+          "half": 60,
+          "available": true
+        },
+        {
+          "id": "feasts-12",
+          "name": {
+            "ar": "سمك قشر بياض ساده",
+            "en": "Plain Nile Perch"
+          },
+          "desc": {
+            "ar": "وزن كيلو",
+            "en": "Sold by the kilo"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 250,
+          "half": 130,
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "fish",
+      "icon": "fish",
+      "name": {
+        "ar": "أصناف الأسماك",
+        "en": "Fish"
+      },
+      "items": [
+        {
+          "id": "fish-01",
+          "name": {
+            "ar": "سمك فيليه قشر بياض",
+            "en": "Nile Perch Fillet"
+          },
+          "desc": {
+            "ar": "جريل",
+            "en": "Grilled"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 350,
+          "half": 180,
+          "available": true
+        },
+        {
+          "id": "fish-02",
+          "name": {
+            "ar": "سمك فيليه قشر بياض",
+            "en": "Nile Perch Fillet"
+          },
+          "desc": {
+            "ar": "قلي",
+            "en": "Fried"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 350,
+          "half": 180,
+          "available": true
+        },
+        {
+          "id": "fish-03",
+          "name": {
+            "ar": "كفتة سمك",
+            "en": "Fish Kofta"
+          },
+          "desc": {
+            "ar": "قلي أو جريل",
+            "en": "Fried or grilled"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 400,
+          "half": 200,
+          "available": true
+        },
+        {
+          "id": "fish-04",
+          "name": {
+            "ar": "برجر سمك",
+            "en": "Fish Burger"
+          },
+          "desc": {
+            "ar": "قلي أو جريل",
+            "en": "Fried or grilled"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 400,
+          "half": 200,
+          "available": true
+        },
+        {
+          "id": "fish-05",
+          "name": {
+            "ar": "شاورما أو فاهيتا سمك",
+            "en": "Fish Shawarma or Fajita"
+          },
+          "desc": {
+            "ar": "فيليه قشر بياض بالخضار",
+            "en": "Nile perch fillet with vegetables"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 300,
+          "half": 160,
+          "available": true
+        },
+        {
+          "id": "fish-06",
+          "name": {
+            "ar": "سمك بلطي",
+            "en": "Tilapia"
+          },
+          "desc": {
+            "ar": "قلي أو فرن",
+            "en": "Fried or oven-baked"
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 185,
+          "half": 150,
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "schools",
+      "icon": "building",
+      "name": {
+        "ar": "منيو المدارس ومنتجات الشركات",
+        "en": "Schools & corporate"
+      },
+      "items": [
+        {
+          "id": "schools-01",
+          "name": {
+            "ar": "برجر لحم",
+            "en": "Beef Burger"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 200,
+          "half": 105,
+          "available": true
+        },
+        {
+          "id": "schools-02",
+          "name": {
+            "ar": "برجر دجاج",
+            "en": "Chicken Burger"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 200,
+          "half": 105,
+          "available": true
+        },
+        {
+          "id": "schools-03",
+          "name": {
+            "ar": "كفته لحم",
+            "en": "Beef Kofta"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 200,
+          "half": 105,
+          "available": true
+        },
+        {
+          "id": "schools-04",
+          "name": {
+            "ar": "كفته دجاج",
+            "en": "Chicken Kofta"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 200,
+          "half": 105,
+          "available": true
+        },
+        {
+          "id": "schools-05",
+          "name": {
+            "ar": "سجق",
+            "en": "Egyptian Sausage (Sogoq)"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 200,
+          "half": 105,
+          "available": true
+        },
+        {
+          "id": "schools-06",
+          "name": {
+            "ar": "سجق بقالي",
+            "en": "Grocery-Style Sausage"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "كيلو",
+            "en": "kg"
+          },
+          "price": 260,
+          "half": 135,
+          "available": true
+        },
+        {
+          "id": "schools-07",
+          "name": {
+            "ar": "سوسيس",
+            "en": "Hot Dog Sausages"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "",
+            "en": ""
+          },
+          "price": 185,
+          "half": 95,
+          "available": true
+        },
+        {
+          "id": "schools-08",
+          "name": {
+            "ar": "طرب",
+            "en": "Tarb (Caul-Wrapped Kofta)"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "",
+            "en": ""
+          },
+          "price": 280,
+          "half": 145,
+          "available": true
+        },
+        {
+          "id": "schools-09",
+          "name": {
+            "ar": "مفروم",
+            "en": "Minced Meat"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "",
+            "en": ""
+          },
+          "price": 350,
+          "half": 175,
+          "available": true
+        },
+        {
+          "id": "schools-10",
+          "name": {
+            "ar": "لحم قطع",
+            "en": "Meat Cubes"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "",
+            "en": ""
+          },
+          "price": 350,
+          "half": 180,
+          "available": true
+        },
+        {
+          "id": "schools-11",
+          "name": {
+            "ar": "كبدة عصافيري",
+            "en": "Liver, Small Cuts (Asafiri)"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "",
+            "en": ""
+          },
+          "price": 215,
+          "half": 110,
+          "available": true
+        },
+        {
+          "id": "schools-12",
+          "name": {
+            "ar": "كبدة شرايح",
+            "en": "Sliced Liver"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "",
+            "en": ""
+          },
+          "price": 215,
+          "half": 110,
+          "available": true
+        },
+        {
+          "id": "schools-13",
+          "name": {
+            "ar": "كلاوي",
+            "en": "Kidneys"
+          },
+          "desc": {
+            "ar": "",
+            "en": ""
+          },
+          "unit": {
+            "ar": "",
+            "en": ""
+          },
+          "price": 260,
+          "half": 135,
+          "available": true
+        }
+      ]
+    },
+    {
+      "id": "spices",
+      "icon": "jar",
+      "name": {
+        "ar": "التوابل والتتبيلات",
+        "en": "Spices & marinades"
+      },
+      "items": [
+        {
+          "id": "spices-01",
+          "name": {
+            "ar": "مارينيه سمك أنواع",
+            "en": "Fish Marinades (Assorted)"
+          },
+          "desc": {
+            "ar": "علبة تتبيلة جاهزة",
+            "en": "Ready marinade, per box"
+          },
+          "unit": {
+            "ar": "علبة",
+            "en": "box"
+          },
+          "price": 70,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "spices-02",
+          "name": {
+            "ar": "مارينيه دجاج أنواع",
+            "en": "Chicken Marinades (Assorted)"
+          },
+          "desc": {
+            "ar": "علبة تتبيلة جاهزة",
+            "en": "Ready marinade, per box"
+          },
+          "unit": {
+            "ar": "علبة",
+            "en": "box"
+          },
+          "price": 70,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "spices-03",
+          "name": {
+            "ar": "مارينيه لحوم أنواع",
+            "en": "Meat Marinades (Assorted)"
+          },
+          "desc": {
+            "ar": "علبة تتبيلة جاهزة",
+            "en": "Ready marinade, per box"
+          },
+          "unit": {
+            "ar": "علبة",
+            "en": "box"
+          },
+          "price": 70,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "spices-04",
+          "name": {
+            "ar": "توابل مكس أنواع",
+            "en": "Mixed Spices (Assorted)"
+          },
+          "desc": {
+            "ar": "علبة توابل صغيرة",
+            "en": "Small spice box"
+          },
+          "unit": {
+            "ar": "علبة",
+            "en": "box"
+          },
+          "price": 30,
+          "half": null,
+          "available": true
+        },
+        {
+          "id": "spices-05",
+          "name": {
+            "ar": "توابل مكس أنواع",
+            "en": "Mixed Spices (Assorted)"
+          },
+          "desc": {
+            "ar": "علبة توابل كبيرة",
+            "en": "Large spice box"
+          },
+          "unit": {
+            "ar": "علبة",
+            "en": "box"
+          },
+          "price": 60,
+          "half": null,
+          "available": true
+        }
+      ]
+    }
+  ]
+}
