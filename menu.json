@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T09:57:08.315Z",
+  "updatedAt": "2026-10-02T10:01:51.644Z",
   "brand": {
     "ar": "جوسي فود",
     "en": "Juicy Food"
@@ -70,8 +70,8 @@
             "ar": "دجاجة",
             "en": "whole chicken"
           },
-          "price": 100,
-          "half": 50,
+          "price": 240,
+          "half": 150,
           "available": true
         },
         {
